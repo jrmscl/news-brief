@@ -25,7 +25,7 @@ API_URL = "https://api.anthropic.com/v1/messages"
 #   claude-opus-4-7   (le plus capable, ~le plus cher)
 #   claude-sonnet-4-6 (bon compromis)
 #   claude-haiku-4-5  (le moins cher, suffisant pour un digest d'actu)
-MODEL = "claude-opus-4-7"
+MODEL = "claude-sonnet-4-6"
 ANTHROPIC_VERSION = "2023-06-01"
 MAX_TOKENS = 4000
 
