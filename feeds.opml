@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Jérémie subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Culture" title="Culture">
+            <outline type="rss" text="Allociné" title="Allociné" xmlUrl="http://www.allocine.fr/xml/rss/news.xml" htmlUrl="https://www.allocine.fr"/>
+            <outline type="rss" text="Vice" title="Vice" xmlUrl="http://www.vice.com/fr/rss" htmlUrl="https://www.vice.com/fr/"/>
+            <outline type="rss" text="Konbini France" title="Konbini France" xmlUrl="http://www.konbini.com/fr/feed/atom/" htmlUrl="https://www.konbini.com/fr"/>
+            <outline type="rss" text="La Quadrature du Net" title="La Quadrature du Net" xmlUrl="http://www.laquadrature.net/fr/rss.xml" htmlUrl="https://www.laquadrature.net"/>
+            <outline type="rss" text="i-D FR" title="i-D FR" xmlUrl="https://i-d.vice.com/fr/rss" htmlUrl="https://i-d.vice.com/fr%3Flocale%3Dfr"/>
+        </outline>
+        <outline text="Automobile" title="Automobile">
+            <outline type="rss" text="Essays - Benedict Evans" title="Essays - Benedict Evans" xmlUrl="https://www.ben-evans.com/benedictevans?format=RSS" htmlUrl="https://www.ben-evans.com/benedictevans/"/>
+            <outline type="rss" text="Le Blog Auto" title="Le Blog Auto" xmlUrl="http://www.leblogauto.com/feed/" htmlUrl="https://www.leblogauto.com/"/>
+            <outline type="rss" text="Blog Automobile" title="Blog Automobile" xmlUrl="http://feeds2.feedburner.com/blogautomobilefr" htmlUrl="https://blogautomobile.fr/"/>
+        </outline>
+        <outline text="Social FR" title="Social FR">
+            <outline type="rss" text="We Are Social France" title="We Are Social France" xmlUrl="http://wearesocial.fr/feed/" htmlUrl="https://wearesocial.com/fr/"/>
+            <outline type="rss" text="Le blog du Modérateur" title="Le blog du Modérateur" xmlUrl="http://www.blogdumoderateur.com/feed/" htmlUrl="https://www.blogdumoderateur.com"/>
+        </outline>
+        <outline text="Jobs" title="Jobs">
+            <outline type="rss" text="Welcome to the jungle - The guide to employment" title="Welcome to the jungle - The guide to employment" xmlUrl="http://www.welcometothejungle.co/articles.rss" htmlUrl="https://www.welcometothejungle.com/en"/>
+        </outline>
+        <outline text="Photo" title="Photo">
+            <outline type="rss" text="Fisheye Magazine" title="Fisheye Magazine" xmlUrl="http://www.fisheyemagazine.fr/feed/" htmlUrl="https://fisheyemagazine.fr/"/>
+            <outline type="rss" text="Phototrend" title="Phototrend" xmlUrl="http://feeds.feedburner.com/phototrend" htmlUrl="https://phototrend.fr/"/>
+            <outline type="rss" text="Lense" title="Lense" xmlUrl="http://www.lense.fr/feed/atom/" htmlUrl="https://www.lense.fr"/>
+        </outline>
+        <outline text="Media" title="Media">
+            <outline type="rss" text="ExchangeWire.com" title="ExchangeWire.com" xmlUrl="http://feeds.feedburner.com/Exchangewirecom" htmlUrl="https://www.exchangewire.com/"/>
+            <outline type="rss" text="chiefmartec" title="chiefmartec" xmlUrl="http://feeds.feedburner.com/ChiefMarketingTechnologist" htmlUrl="https://chiefmartec.com"/>
+            <outline type="rss" text="AD-EXCHANGE.FR *" title="AD-EXCHANGE.FR *" xmlUrl="http://www.ad-exchange.fr/feed/" htmlUrl="https://ad-exchange.fr/"/>
+            <outline type="rss" text="AdExchanger" title="AdExchanger" xmlUrl="http://www.adexchanger.com/feed/" htmlUrl="https://www.adexchanger.com/"/>
+            <outline type="rss" text="Digiday" title="Digiday" xmlUrl="http://www.digiday.com/feed/" htmlUrl="https://digiday.com/"/>
+            <outline type="rss" text="Open Garden" title="Open Garden" xmlUrl="https://rss.beehiiv.com/feeds/VIjt4Cr11d.xml" htmlUrl="https://www.open-garden.com/"/>
+        </outline>
+        <outline text="Tech FR" title="Tech FR">
+            <outline type="rss" text="FW.MEDIA" title="FW.MEDIA" xmlUrl="http://feeds.feedburner.com/frenchweb" htmlUrl="https://www.frenchweb.fr/"/>
+            <outline type="rss" text="01net" title="01net" xmlUrl="http://www.01net.com/rss/actus.xml" htmlUrl="https://www.01net.com/"/>
+            <outline type="rss" text="Presse-citron" title="Presse-citron" xmlUrl="http://www.presse-citron.net/feed" htmlUrl="https://www.presse-citron.net/"/>
+            <outline type="rss" text="Les Numériques - Toute l'actualité, les tests et dossiers, les bons plans" title="Les Numériques - Toute l'actualité, les tests et dossiers, les bons plans" xmlUrl="http://www.lesnumeriques.com/rss.xml" htmlUrl="https://www.lesnumeriques.com/"/>
+            <outline type="rss" text="Journal du Geek" title="Journal du Geek" xmlUrl="http://feeds.feedburner.com/LeJournalDuGeek" htmlUrl="https://www.journaldugeek.com/"/>
+            <outline type="rss" text="Les Clés Du Digital" title="Les Clés Du Digital" xmlUrl="https://www.lesclesdudigital.fr/feed/" htmlUrl="https://www.lesclesdudigital.fr/"/>
+            <outline type="rss" text="La Revue du Digital" title="La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/feed/" htmlUrl="https://www.larevuedudigital.com/"/>
+            <outline type="rss" text="ZDNet actualites" title="ZDNet actualites" xmlUrl="http://www.zdnet.fr/feeds/rss/actualites/?l=20" htmlUrl="https://www.zdnet.fr/feeds/rss/actualites/?l=20"/>
+            <outline type="rss" text="Maddyness - Le média pour comprendre l'économie de demain" title="Maddyness - Le média pour comprendre l'économie de demain" xmlUrl="http://feeds.feedburner.com/Maddyness" htmlUrl="https://www.maddyness.com/"/>
+            <outline type="rss" text="Les news de Korben" title="Les news de Korben" xmlUrl="http://feeds.feedburner.com/KorbensBlog-UpgradeYourMind" htmlUrl="https://korben.info"/>
+            <outline type="rss" text="JDN" title="JDN" xmlUrl="http://www.journaldunet.com/rss/" htmlUrl="https://www.journaldunet.com"/>
+        </outline>
+        <outline text="Android" title="Android">
+            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
+            <outline type="rss" text="Frandroid" title="Frandroid" xmlUrl="http://feeds2.feedburner.com/Frandroid" htmlUrl="https://www.frandroid.com/"/>
+        </outline>
+        <outline text="Paris" title="Paris">
+            <outline type="rss" text="Vivre paris" title="Vivre paris" xmlUrl="http://vivre.paris/feed" htmlUrl="https://vivreparis.fr/"/>
+            <outline type="rss" text="Ten Days In Paris Paris City Guide - Events Calendar - Bar - Clubs - Restaurants - etc." title="Ten Days In Paris Paris City Guide - Events Calendar - Bar - Clubs - Restaurants - etc." xmlUrl="http://www.tendaysinparis.com/feed" htmlUrl="http://www.tendaysinparis.com"/>
+            <outline type="rss" text="Paris ZigZag" title="Paris ZigZag" xmlUrl="http://www.pariszigzag.fr/feed" htmlUrl="https://www.pariszigzag.fr"/>
+            <outline type="rss" text="Parisianavores – Blog Lifestyle / Food / Voyage / Kids" title="Parisianavores – Blog Lifestyle / Food / Voyage / Kids" xmlUrl="http://parisianavores.com/feed/" htmlUrl="https://parisianavores.paris/"/>
+            <outline type="rss" text="Paris Secret" title="Paris Secret" xmlUrl="https://parissecret.com/feed/" htmlUrl="https://parissecret.com/"/>
+        </outline>
+        <outline text="Apple" title="Apple">
+            <outline type="rss" text="iGen" title="iGen" xmlUrl="http://rss.igeneration.fr/" htmlUrl="https://cdn.mgig.fr/rss/igen/light_rss_igen.xml"/>
+            <outline type="rss" text="MacGen" title="MacGen" xmlUrl="http://rss.macg.co/" htmlUrl="https://cdn.mgig.fr/rss/macg/light_rss_macg.mxl"/>
+        </outline>
+        <outline text="Luxe" title="Luxe">
+            <outline type="rss" text="The Business of Fashion" title="The Business of Fashion" xmlUrl="http://www.businessoffashion.com/feed" htmlUrl="https://www.businessoffashion.com"/>
+            <outline type="rss" text="Journal du Luxe" title="Journal du Luxe" xmlUrl="https://journalduluxe.fr/feed" htmlUrl="https://origin.journalduluxe.fr/fr/"/>
+            <outline type="rss" text="L'Officiel france" title="L'Officiel france" xmlUrl="https://www.lofficiel.com/feed.rss" htmlUrl="https://www.lofficiel.com/feed.rss"/>
+        </outline>
+        <outline text="Analytics" title="Analytics">
+            <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="https://www.kdnuggets.com"/>
+            <outline type="rss" text="Occam's Razor" title="Occam's Razor" xmlUrl="http://feeds.feedburner.com/OccamsRazorByAvinash" htmlUrl="https://www.kaushik.net/avinash/"/>
+            <outline type="rss" text="abtasty" title="abtasty" xmlUrl="https://www.abtasty.com/fr/feed/" htmlUrl="https://www.abtasty.com/fr/"/>
+            <outline type="rss" text="Google Tag Manager and Google Analytics on Simo Ahava's blog" title="Google Tag Manager and Google Analytics on Simo Ahava's blog" xmlUrl="http://www.simoahava.com/feed/" htmlUrl="https://www.simoahava.com/"/>
+            <outline type="rss" text="Digital Marketing and Analytics by Anil Batra" title="Digital Marketing and Analytics by Anil Batra" xmlUrl="http://webanalysis.blogspot.com/feeds/posts/default" htmlUrl="http://webanalysis.blogspot.com/"/>
+            <outline type="rss" text="Adswerve" title="Adswerve" xmlUrl="http://feeds.feedburner.com/analyticspros" htmlUrl="http://old.adswerve.com"/>
+            <outline type="rss" text="tanelytics.com" title="tanelytics.com" xmlUrl="https://tanelytics.com/feed/" htmlUrl="https://tanelytics.com/"/>
+            <outline type="rss" text="blef.fr" title="blef.fr" xmlUrl="https://www.blef.fr/blog/rss/" htmlUrl="https://www.blef.fr/"/>
+            <outline type="rss" text="CXL" title="CXL" xmlUrl="http://conversionxl.com/feed/" htmlUrl="https://cxl.com/"/>
+            <outline type="rss" text="GTM-GEAR" title="GTM-GEAR" xmlUrl="https://gtm-gear.com/index.xml" htmlUrl="https://gtm-gear.com/"/>
+            <outline type="rss" text="Sébastien Daviot » Flux" title="Sébastien Daviot » Flux" xmlUrl="https://www.sebastiendaviot.com/feed/" htmlUrl="https://www.sebastiendaviot.com"/>
+            <outline type="rss" text="Google Analytics Blog" title="Google Analytics Blog" xmlUrl="http://analytics.blogspot.com/atom.xml" htmlUrl="https://blog.google/products/marketingplatform/analytics/"/>
+            <outline type="rss" text="Juliana Jackson" title="Juliana Jackson" xmlUrl="https://juliana-jackson.com/feed/" htmlUrl="https://juliana-jackson.com"/>
+            <outline type="rss" text="Jimalytics Blog" title="Jimalytics Blog" xmlUrl="http://jimalytics.com/feed/" htmlUrl="https://jimalytics.com/"/>
+            <outline type="rss" text="Adswerve" title="Adswerve" xmlUrl="https://www.adswerve.com/feed/" htmlUrl="https://adswerve.com"/>
+            <outline type="rss" text="Blog – Blast Analytics" title="Blog – Blast Analytics" xmlUrl="http://www.blastam.com/blog/index.php/category/analytics/feed/" htmlUrl="https://www.blastanalytics.com"/>
+            <outline type="rss" text="Web Analytics for Developers" title="Web Analytics for Developers" xmlUrl="http://webanalyticsfordevelopers.com/feed/" htmlUrl="https://webanalyticsfordevelopers.com"/>
+            <outline type="rss" text="Stacktonic.com" title="Stacktonic.com" xmlUrl="https://stacktonic.com/rss" htmlUrl="https://stacktonic.com?utm_source=feed&amp;utm_medium=rss"/>
+            <outline type="rss" text="Julien Coquet" title="Julien Coquet" xmlUrl="http://juliencoquet.com/feed/" htmlUrl="https://juliencoquet.com/"/>
+            <outline type="rss" text="Analytics Mania" title="Analytics Mania" xmlUrl="https://www.analyticsmania.com/feed/" htmlUrl="https://www.analyticsmania.com"/>
+            <outline type="rss" text="Loves Data's Blog" title="Loves Data's Blog" xmlUrl="http://www.lovesdata.com/feed/" htmlUrl="https://www.lovesdata.com/blog/"/>
+            <outline type="rss" text="Julien Coquet" title="Julien Coquet" xmlUrl="https://juliencoquet.com/en/feed/" htmlUrl="https://juliencoquet.com/"/>
+            <outline type="rss" text="BORYL" title="BORYL" xmlUrl="https://www.boryl.fr/feed/" htmlUrl="https://www.boryl.fr/"/>
+            <outline type="rss" text="Occam's Razor by Avinash Kaushik" title="Occam's Razor by Avinash Kaushik" xmlUrl="http://feeds2.feedburner.com/OccamsRazorByAvinash" htmlUrl="https://www.kaushik.net/avinash/"/>
+            <outline type="rss" text="Stories by Doug Hall on Medium" title="Stories by Doug Hall on Medium" xmlUrl="https://medium.com/feed/@fastbloke" htmlUrl="https://medium.com/@fastbloke?source=rss-ec64816b49d9------2"/>
+            <outline type="rss" text="Digital Debrief" title="Digital Debrief" xmlUrl="http://www.kristaseiden.com/feed/" htmlUrl="https://kristaseiden.com/"/>
+            <outline type="rss" text="MeasureSchool" title="MeasureSchool" xmlUrl="http://measureschool.com/feed/" htmlUrl="https://measureschool.com"/>
+            <outline type="rss" text="Seer Interactive" title="Seer Interactive" xmlUrl="http://www.seerinteractive.com/blog/" htmlUrl="https://www.seerinteractive.com"/>
+            <outline type="rss" text="Cardinal Path" title="Cardinal Path" xmlUrl="https://www.cardinalpath.com/feed/" htmlUrl="https://www.cardinalpath.com"/>
+            <outline type="rss" text="Cardinal Path" title="Cardinal Path" xmlUrl="http://www.cardinalpath.com/feed" htmlUrl="https://www.cardinalpath.com"/>
+            <outline type="rss" text="GA4BigQuery" title="GA4BigQuery" xmlUrl="https://www.ga4bigquery.com/rss/" htmlUrl="https://www.ga4bigquery.com/"/>
+        </outline>
+        <outline text="Vélo" title="Vélo">
+            <outline type="rss" text="Citycle" title="Citycle" xmlUrl="https://www.citycle.com/?feed=rss2" htmlUrl="https://www.citycle.com/"/>
+            <outline type="rss" text="Les Rookies" title="Les Rookies" xmlUrl="http://lesrookies.com/feed" htmlUrl="https://lesrookies.com"/>
+            <outline type="rss" text="Weelz!" title="Weelz!" xmlUrl="http://feeds2.feedburner.com/weelzfr" htmlUrl="https://weelz.ouest-france.fr/"/>
+        </outline>
+        <outline text="Blog" title="Blog">
+            <outline type="rss" text="Tendance Deco" title="Tendance Deco" xmlUrl="http://feeds.feedburner.com/Blog-Espritdesign" htmlUrl="https://blog-espritdesign.com"/>
+            <outline type="rss" text="Gonzague Dambricourt" title="Gonzague Dambricourt" xmlUrl="http://gonzague.me/feed" htmlUrl="https://gonzague.me/"/>
+            <outline type="rss" text="The Socialite Family" title="The Socialite Family" xmlUrl="http://www.thesocialitefamily.com/feed/" htmlUrl="https://www.thesocialitefamily.com/"/>
+        </outline>
+        <outline text="Social EN" title="Social EN">
+            <outline type="rss" text="We Are Social Global" title="We Are Social Global" xmlUrl="http://wearesocial.net/feed/" htmlUrl="https://wearesocial.com/uk/"/>
+        </outline>
+        <outline text="Mode" title="Mode">
+            <outline type="rss" text="Comme un camion" title="Comme un camion" xmlUrl="http://www.commeuncamion.com/feed/atom/" htmlUrl="https://www.commeuncamion.com/"/>
+            <outline type="rss" text="Les Belles Chaussures" title="Les Belles Chaussures" xmlUrl="http://www.lesbelleschaussures.com/feed/" htmlUrl="https://www.commeuncamion.com/guide/types/chaussures/"/>
+            <outline type="rss" text="Journal - Les Indispensables" title="Journal - Les Indispensables" xmlUrl="https://www.lesindispensablesparis.com/mode?format=rss" htmlUrl="https://www.lesindispensablesparis.com/mode/"/>
+            <outline type="rss" text="Fubiz™" title="Fubiz™" xmlUrl="http://www.fubiz.net/feed/" htmlUrl="https://www.fubiz.net"/>
+            <outline type="rss" text="maninwave.com" title="maninwave.com" xmlUrl="https://maninwave.com/?feed=rss2" htmlUrl="https://maninwave.com"/>
+            <outline type="rss" text="Chiffons !" title="Chiffons !" xmlUrl="https://chiffons.net/feed/" htmlUrl="https://chiffons.net"/>
+            <outline type="rss" text="Les Rhabilleurs" title="Les Rhabilleurs" xmlUrl="http://www.lesrhabilleurs.com/feed/" htmlUrl="https://www.lesrhabilleurs.com/"/>
+            <outline type="rss" text="Stiff Collar" title="Stiff Collar" xmlUrl="http://stiffcollar.wordpress.com/feed/" htmlUrl="https://stiff-collar.com"/>
+            <outline type="rss" text="Verygoodlord | Blog mode homme et conseils mode" title="Verygoodlord | Blog mode homme et conseils mode" xmlUrl="http://feeds.feedburner.com/VeryGoodLord" htmlUrl="https://verygoodlord.com/"/>
+            <outline type="rss" text="BonneGueule" title="BonneGueule" xmlUrl="http://www.bonnegueule.fr/feed/" htmlUrl="https://www.bonnegueule.fr"/>
+        </outline>
+        <outline text="Featured" title="Featured">
+            <outline type="rss" text="Le Monde" title="Le Monde" xmlUrl="http://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+            <outline type="rss" text="NYT" title="NYT" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://nytimes.com"/>
+        </outline>
+        <outline text="Tech EN" title="Tech EN">
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="https://techcrunch.com/"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com"/>
+            <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
+            <outline type="rss" text="Think with Google - Discover Marketing Research &amp; Digital Trends" title="Think with Google - Discover Marketing Research &amp; Digital Trends" xmlUrl="http://feeds.feedburner.com/google/think" htmlUrl="https://www.thinkwithgoogle.com/"/>
+            <outline type="rss" text="HBR" title="HBR" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/" htmlUrl="http://hbr.org"/>
+            <outline type="rss" text="TLDR RSS Feed" title="TLDR RSS Feed" xmlUrl="https://www.tldrnewsletter.com/rss" htmlUrl="https://tldr.tech"/>
+        </outline>
+    </body>
+</opml>
