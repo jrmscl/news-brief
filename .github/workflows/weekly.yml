@@ -1,0 +1,41 @@
+name: Digest hebdomadaire
+
+on:
+  schedule:
+    # Lundi 05:30 UTC = 07:30 Paris en été (06:30 en hiver, cron UTC fixe).
+    - cron: "30 5 * * 1"
+  workflow_dispatch: {}   # lancement manuel (test)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest-hebdo
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Générer le digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          mkdir -p briefs
+          OUT="briefs/hebdo-$(date -u +%F).md"
+          python3 news_brief.py feeds.opml --hours 168 \
+            --only "Analytics,Culture,Mode,Photo,Luxe,Paris,Vélo,Automobile,Social FR,Social EN,Blog,Jobs" \
+            | python3 summarize.py --kind weekly > "$OUT"
+          echo "----- Digest généré -----"
+          cat "$OUT"
+      - name: Commit & push
+        run: |
+          git config user.name "news-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add briefs/
+          git diff --cached --quiet || git commit -m "Digest hebdo $(date -u +%F)"
+          git push

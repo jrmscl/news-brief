@@ -1,0 +1,43 @@
+name: Brief quotidien
+
+on:
+  schedule:
+    # 05:30 UTC = 07:30 Paris en été (CEST). En hiver (CET) ce sera 06:30 Paris :
+    # le cron GitHub est en UTC fixe et ne suit pas l'heure d'été. GitHub peut aussi
+    # retarder les crons de plusieurs minutes en période de charge.
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}   # lancement manuel (test)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief-quotidien
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Générer le brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          mkdir -p briefs
+          OUT="briefs/$(date -u +%F).md"
+          python3 news_brief.py feeds.opml --hours 24 \
+            --only "Featured,Tech FR,Tech EN,Media,Apple,Android" \
+            | python3 summarize.py --kind daily > "$OUT"
+          echo "----- Brief généré -----"
+          cat "$OUT"
+      - name: Commit & push
+        run: |
+          git config user.name "news-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add briefs/
+          git diff --cached --quiet || git commit -m "Brief quotidien $(date -u +%F)"
+          git push
